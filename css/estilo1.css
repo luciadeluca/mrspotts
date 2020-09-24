@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+header{
+	width: 100%;
+	height: 100px;
+	background-color: #ffffff;
+	opacity: 70%;
+}
+
+#logo{
+	height: 88px;
+	width: 150px;
+	padding left: 20%;
+
+}
+
+#potts{
+	height: 120px;
+	width: 150px;
+	top: 300px;
+
+}
+
+#welc{
+	font-family: 'Roboto', sans-serif;
+	color: #D980FA;
+	position: relative;
+  top: 70px;
+  left: 160px;
+}
+
+#menu {
+    position: absolute;
+	top: 10%;
+	left: 59%;
+	right: 7%;
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	color: #192a56;
+
+}
+
+ #menu li {
+ display: inline;
+ }
+
+#menu li a {
+font-family: 'Roboto', sans-serif;
+ font-size: 15px;
+ text-decoration: none;
+ float: left;
+ padding: 10px;
+ 
+ color: #D980FA;
+ }
+
+
+#fondo{
+	width: 100%;
+	height: 450px;
+	background-image: url(../img/fondo.jpg);
+}
+
+
+#formulario{
+	position: absolute;
+	top: 35%;
+	left: 5%;
+	right: 0%;
+	width: 70%;
+}
+
+#form input, textarea {
+	width:70%;
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFF;
+	color: #2f3542;
+	font-size: 1em;
+}
+
+
+#name{
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFF;
+	color: #2f3542;
+}
+
+#apellido{
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFF;
+	color: #2f3542;
+}
+
+#email{
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFF;
+	color: #2f3542;
+}
+
+#mensaje{
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFF;
+	color: #2f3542;
+}
+
+#form {
+	width: 70%;
+}
+#cont_texto {
+	background:#333;
+	font-family: 'Roboto', sans-serif;
+	font-size:0.9em;
+	width: 400px;
+	color: #FFF;
+	padding: 0%;
+	border: 1px dashed #FFF;
+	margin:0 auto;
+}
+
+#cont_texto h1 {
+font-family: 'Roboto', sans-serif;
+	font-size: 1.3em;
+	color: #2f3542;
+}
+
+#textcon{
+	font-family: 'Roboto', sans-serif;
+	color: #D980FA;
+	position: relative;
+  top: 34px;
+  left: 60px;
+
+}
+
+.mapa{
+	top: 30%;
+	 padding: 20px; margin: 80px; 
+		float: right; width: 500px;
+		height: 280px;
+
+
+}
+
+}
+article{
+	width: 100%;
+	height: 450px;
+	float: right;
+	padding-right: auto;
+	padding-top: 5%;
+
+}
+
+ #desc{
+ 	position: absolute;
+	top: 46%;
+	left: 12%;
+	right: 0%;
+	width: 35%;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #2f3542;
+	text-align: justify;
+}
+
+footer{
+	width: 100%;
+	height: 60px;
+	background-color: #ffffff;
+	color: #ffffff;
+	opacity: 50%;
+
+}
+
+#izquierda{
+	width: 33%;
+	height: 50px;
+	float: left;
+	background-color: #ffffff;
+	color: #D980FA;
+}
+#nombre{
+	padding-left: 15%;
+	margin-top: 5%;
+}
+
+
+
+#derecha{
+	width: 34%;
+	height: 38px;
+	float: right;
+	background-color: #ffffff;
+	color: #ffffff;
+}
+
+#facebook{
+	padding-left: 30%;
+	padding-top: 4%;
+}
+#ig{
+	padding-top: 1%;
+	padding-left: 20%;
+}
+
+#tw{
+	padding-left: 20%;
+	padding-bottom: 0%;
+}
+
+
+
+#textte{
+	position: absolute;
+	top: 38%;
+	left: 5%;
+	right: 0%;
+	width: 35%;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	color: #2f3542;
+	text-align: justify;
+}
+
+#historia{
+	width: 100%;
+	height: 450px;
+}
+
+#tituhist{
+		font-family: 'Roboto', sans-serif;
+	color: #D980FA;
+	position: relative;
+  top: 60px;
+  left: 60px;
+}
